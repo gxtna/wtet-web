@@ -1,0 +1,39 @@
+.margin-left-8 {
+    margin-left: 80px !important;
+}
+
+.margin-right-10 {
+    margin-right: 100px !important;
+}
+
+.inputSearch {
+    width: 400px !important;
+    margin-top: 10px !important;
+}
+
+.div-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+    position: fixed;
+
+}
+.content{
+    margin-top: 3%;
+    margin-left: 5%;
+    width: 80% !important;
+    background: white;
+    z-index: -1;
+}
+.content-card{
+    margin-left: 5%;
+    width: 100% !important;
+    margin-bottom: 5px;
+    border-bottom: 1px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.detail-card{
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+    width: 60%;
+    height: 100%;
+}
